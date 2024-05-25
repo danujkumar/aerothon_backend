@@ -1,0 +1,60 @@
+{
+    "departure": {
+      "departure": "AGX (Agatti Island) 14:00",
+      "latitude": "10.828967",
+      "longitude": "72.17987"
+    },
+    "routes": {
+      "safe": {
+        "routes1by3": {
+          "actual": {},
+          "plus100": {},
+          "minus100": {}
+        },
+        "routes2by3": {
+          "actual": {},
+          "plus100": {},
+          "minus100": {}
+        },
+        "follow": []
+      },
+      "efficient": {
+        "routes1by3": {
+          "actual": {},
+          "plus100": {},
+          "minus100": {}
+        },
+        "routes2by3": {
+          "actual": {},
+          "plus100": {},
+          "minus100": {}
+        },
+        "follow": []
+      },
+      "reliable": {
+        "routes1by3": {
+          "actual": {},
+          "plus100": {},
+          "minus100": {}
+        },
+        "routes2by3": {
+          "actual": {},
+          "plus100": {},
+          "minus100": {}
+        },
+        "follow": []
+      }
+    },
+    "flight_health": {
+      "engines": 2,
+      "engine_health": "Good",
+      "fuel": "8000",
+      "speed": 878
+    },
+    "arrival": {
+      "arrival": "DMU (Dimapur) 15:15",
+      "latitude": "25.879816",
+      "longitude": "93.772865"
+    }
+  }
+  
